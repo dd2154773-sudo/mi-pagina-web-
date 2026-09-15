@@ -1,0 +1,6 @@
+{
+  "name": "Nocturna & Code",
+  "description": "Portafolio y bitácora ciber-gótica de Elena Vance: Ingeniería de Sistemas, Maternidad y Estética Victoriana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
